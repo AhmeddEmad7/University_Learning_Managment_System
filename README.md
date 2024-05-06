@@ -1,7 +1,7 @@
 
-# Learning Management System
+# University Learning Management System
 
-The Learning Management System (LMS) is an online platform designed to streamline the process of creating, managing, and delivering educational courses. It serves as a centralized hub for educators, learners, and administrators, providing them with tools and features to facilitate efficient and engaging learning experiences.
+The UniversityLearning Management System (ULMS) is an online platform designed to streamline the process of creating, managing, and delivering educational courses. It serves as a centralized hub for educators, learners, and administrators, providing them with tools and features to facilitate efficient and engaging learning experiences.
 
 ## Features
  The program is an admin dashboard, Admin should be able to do the following:
